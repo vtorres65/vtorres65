@@ -24,9 +24,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtorres65&show_icons=true&locale=en&layout=compact" alt="vtorres65" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtorres65&show_icons=true&theme=dark&locale=en" alt="vtorres65" /></p>
+<picture><source 
+  srcset="https://github-readme-stats.vercel.app/api?username=vtorres65&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/><source
+  srcset="https://github-readme-stats.vercel.app/api?username=vtorres65&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/><img src="https://github-readme-stats.vercel.app/api?username=vtorres65&show_icons=true" /></picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtorres65&" alt="vtorres65" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtorres65&show_icons=true&theme=dracula" alt="vtorres65" /></p>
 
 <p align="center">
   Visitor count<br>
