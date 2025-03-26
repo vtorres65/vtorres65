@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtorres65" alt="vtorres65" /></a> </p>
 
-- 🔭 I’m currently working on [AZ SMART TECHNOLOGY](GPS MOBILE)
-
-- 🌱 I’m currently learning **.NET, SQL, JAVA**
+- 🌱 I’m currently learning **.NET, SQL Server, JAVA, Python**
 
 - 👨‍💻 All of my projects are available at [github.com/vtorres65](github.com/vtorres65)
 
